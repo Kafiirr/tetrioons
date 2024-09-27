@@ -4,8 +4,8 @@
   "data": {
     "title": {
       "cn": "俄罗斯方块",
-      "en": "Kafirchain Tetris",
-      "fr": "Kafirchain Tetris",
+      "en": "KC TETRIS",
+      "fr": "KC TETRIS",
       "fa": "خانه سازی"
     },
     "github": {
@@ -34,8 +34,8 @@
     },
     "titleCenter": {
       "cn": "俄罗斯方块<br />TETRIS",
-      "en": "TETRI0N",
-      "fr": "TETRI0N",
+      "en": "KC TETRIS",
+      "fr": "KC TETRIS",
       "fa": "خانه سازی"
     },
     "point": {

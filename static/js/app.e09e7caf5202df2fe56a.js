@@ -2726,8 +2726,8 @@ webpackJsonp([1], [function (t, e, n) {
             data: {
                 title: {
                     cn: "?????",
-                    en: "Kafirchain Tetris",
-                    fr: "Kafirchain Tetris",
+                    en: "KC TETRIS",
+                    fr: "KC TETRIS",
                     fa: "???? ????"
                 },
                 github: {
@@ -2756,8 +2756,8 @@ webpackJsonp([1], [function (t, e, n) {
                 },
                 titleCenter: {
                     cn: "?????<br />TETRIS",
-                    en: "TETRI0N",
-                    fr: "TETRI0N",
+                    en: "Classic Tetris on Kafirchain",
+                    fr: "Classic Tetris on Kafirchain",
                     fa: "???? ????"
                 },
                 point: {
